@@ -1,2 +1,2 @@
 # Calculator-Project
-Spring MVA Calculator Project
+Spring Boot Calculator Project
